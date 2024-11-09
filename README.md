@@ -15,7 +15,6 @@ Steps:
         * delete App.css file 
         * delete contents (not whole file) of index.css
         * take index.css from github repo above and paste here
+    - 'npm i' should have already be run in /caffiend
+        * then run 'npm run dev'
     -
-
-
-15:21
